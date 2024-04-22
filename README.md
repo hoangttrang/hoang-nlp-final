@@ -21,6 +21,8 @@ To run this notebook, you will need to install the following libraries and packa
 You can install these packages by running the following command:
 `pip install -r requirements.txt`
 
+You also need to download the data from [https://www.kaggle.com/datasets/prathamsaraf1389/top-100-reddit-posts-daily-update?resource=download]. After you finish downloading, make sure the unzipped files would be in your working directory
+
 # Structure of the Notebook
 The notebook is structured as follows:
 
